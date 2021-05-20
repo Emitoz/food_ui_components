@@ -1,0 +1,12 @@
+{
+  "name": "diney-components",
+  "displayName": "diney-components",
+  "expo": {
+    "name": "diney-components",
+    "slug": "diney-components",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
